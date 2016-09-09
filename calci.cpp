@@ -1,1 +1,2 @@
-hi this is cummins college
+this is cummins college
+hello
